@@ -1,0 +1,8 @@
+{
+  "events": [
+    { "title": "Reunião diária", "start": "09:00", "end": "09:30" },
+    { "title": "Planejamento da sprint", "start": "10:00", "end": "11:30" },
+    { "title": "Revisão de código", "start": "14:00", "end": "15:00" },
+    { "title": "1:1 com gerente", "start": "16:30", "end": "17:00" }
+  ]
+}
